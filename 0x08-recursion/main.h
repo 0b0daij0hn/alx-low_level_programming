@@ -4,6 +4,8 @@
 #include <stdio.h>
 #include <math.h>
 
+int _putchar(char c);
+
 /* Task 0: _puts_recursion */
 void _puts_recursion(char *s);
 
